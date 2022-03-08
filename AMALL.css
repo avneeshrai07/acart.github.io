@@ -1,0 +1,147 @@
+.one{
+    height: 130px;
+    background-color: #70f2c9;
+    padding-top: 20px;
+}
+
+#fordash{
+    margin-left: 15px;
+}
+#amall{
+    margin-left: 80px;
+    margin-top: -35px;
+    color: rgb(0, 0, 0);
+    font-family: 'verdana';}
+
+#mic{
+ text-align: right;
+ margin-top: -50px;
+margin-right: 80px;}
+
+ #cart{
+text-align: right;
+margin-top: -33px;
+margin-right: 15px;
+ }
+
+ #search{
+ text-align: left;
+   margin-top: 30px;
+   margin-left: 20px;
+   
+ }
+
+ #searchicon{
+     margin-left: 30px;
+     margin-top: -30px;
+     text-align: left;
+     
+     
+ }
+
+ #cam{
+     text-align: end;
+     margin-right: 70px;
+     margin-top: -25px;
+ }
+
+ .two{
+     background-color: #22e2e2;
+     height: 50px;
+ }
+
+ #add{
+    
+     margin-left: 15px;
+     padding-top: 10px;
+ }
+
+ #location{
+     margin-left: 50px;
+     margin-top: -20px;
+ }
+
+.three{
+margin-top: 10px;
+
+
+}
+ #electronicsl{
+margin-left: 15px;
+ }
+
+ #electronicst{
+margin-top: -5px;
+ }
+
+#fashionl{
+margin-left: 215px;
+margin-top: -60px;
+}
+
+#fashiont{
+margin-left: 205px;
+margin-top: -5px;
+}
+
+#groceryl{
+margin-left: 420px;
+margin-top: -60px;
+}
+#groceryt{
+    margin-left: 410px;
+    margin-top: -5px;
+}
+
+#mobilesl{
+    margin-left: 615px;
+    margin-top: -62px;
+}
+#mobilet{
+    margin-left: 605px;
+    margin-top: -5px;
+}
+
+#essenl{
+    margin-left: 815px;
+    margin-top: -65px;}
+#essent{
+    margin-left: 800px;
+    margin-top: -5px;
+}
+
+#homel{
+    margin-left: 1020px;
+    margin-top: -70px;
+}
+#homet{
+    margin-left: 1020px;
+    margin-top: -5px;
+}
+
+#booksl{
+    margin-left: 1230px;
+    margin-top: -70px;
+
+}
+#bookst{
+    margin-left: 1227px;
+    margin-top: -5px;
+}
+
+#toysl{
+    margin-left: 1445px;
+    margin-top: -65px;
+}
+#toyst{
+    margin-left: 1443px;
+    margin-top: -5px;
+}
+.fut{
+    padding: 50px;
+    background-color: rgba(0, 0, 0, 0.639);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(55, 196, 214);  
+    text-align: center;
+    margin-top: 350px;
+}
